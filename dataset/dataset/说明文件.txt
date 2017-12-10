@@ -1,0 +1,16 @@
+这个数据集包含了16980篇论文的题目(Title)和摘要(Abstract)，以及论文之间的引用链接(link)关系。
+
+文件信息：
+documents.txt:  
+所有论文的题目和摘要信息。“##1”表示论文的编号为“1”。
+
+link.txt:	
+所有链接信息。每行表示一篇论文的被引用情况，“##1:0:”表示编号为“1”的论文被引用“0次”，“##2:12:43 44 61 117 253 1948 4142 5288 5599 5699 6878 7598”表示编号为“2”的论文被引用“12次”，被编号为“43 44 61 117 253 1948 4142 5288 5599 5699 6878 7598”的12篇论文引用。
+
+其中documents.txt中的信息主要来自于[1]，由原作者从CiteULike（http://www.citeulike.org/）爬取；link.txt中的信息主要来自于[2],由王灏（http://www.wanghao.in/）从Google Scholar（http://scholar.google.com/）爬取。  
+
+
+
+[1] Chong Wang, David M. Blei. Collaborative Topic Modeling for Recommending Scientific Articles. KDD 2011: 448-456
+
+[2] Hao Wang, Wu-Jun Li. Relational Collaborative Topic Regression for Recommender Systems. IEEE Trans. Knowl. Data Eng. 27(5): 1343-1355 (2015)

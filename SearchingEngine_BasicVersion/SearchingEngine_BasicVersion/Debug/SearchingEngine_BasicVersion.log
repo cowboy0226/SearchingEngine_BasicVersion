@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  term.cpp
+  sortPages.cpp
+  setTerms.cpp
+  setPages.cpp
+  setPageRankKey.cpp
+  SearchingEngine_BasicVersion.cpp
+  pagesOutput.cpp
+  hashTable.cpp
+  flexibleArr.cpp
+  正在生成代码...
+  SearchingEngine_BasicVersion.vcxproj -> C:\Users\zzq\Desktop\大作业\SearchingEngine_BasicVersion\Debug\SearchingEngine_BasicVersion.exe

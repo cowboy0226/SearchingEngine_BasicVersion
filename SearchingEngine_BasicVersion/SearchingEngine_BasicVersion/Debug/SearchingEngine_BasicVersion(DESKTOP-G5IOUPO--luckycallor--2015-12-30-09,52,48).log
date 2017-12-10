@@ -1,0 +1,20 @@
+﻿生成启动时间为 2015/12/30 9:52:44。
+     1>项目“I:\luckycallor\数据结构\大作业\SearchingEngine_BasicVersion\SearchingEngine_BasicVersion\SearchingEngine_BasicVersion.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\SearchingEngine_BasicVersion.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt setTerms.cpp
+         setTerms.cpp
+     1>i:\luckycallor\数据结构\大作业\searchingengine_basicversion\searchingengine_basicversion\setterms.cpp(27): warning C4101: “c”: 未引用的局部变量
+       Link:
+         E:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\luckycallor\数据结构\大作业\SearchingEngine_BasicVersion\Debug\SearchingEngine_BasicVersion.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"I:\luckycallor\数据结构\大作业\SearchingEngine_BasicVersion\Debug\SearchingEngine_BasicVersion.pdb" /SUBSYSTEM:CONSOLE /HEAP:"100" /STACK:"100" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\luckycallor\数据结构\大作业\SearchingEngine_BasicVersion\Debug\SearchingEngine_BasicVersion.lib" /MACHINE:X86 Debug\flexibleArr.obj
+         Debug\hashTable.obj
+         Debug\SearchingEngine_BasicVersion.obj
+         Debug\setPages.obj
+         Debug\setTerms.obj
+         Debug\stdafx.obj
+         Debug\term.obj
+         SearchingEngine_BasicVersion.vcxproj -> I:\luckycallor\数据结构\大作业\SearchingEngine_BasicVersion\Debug\SearchingEngine_BasicVersion.exe
+     1>已完成生成项目“I:\luckycallor\数据结构\大作业\SearchingEngine_BasicVersion\SearchingEngine_BasicVersion\SearchingEngine_BasicVersion.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.16
